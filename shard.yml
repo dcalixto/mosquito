@@ -19,6 +19,7 @@ dependencies:
   redis:
     github: jgaskins/redis
     version: ~> 0.7
+    skip_docs: true
 
 development_dependencies:
   minitest:
